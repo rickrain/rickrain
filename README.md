@@ -1,6 +1,6 @@
 # Rick Rainey
 
-Software engineering leader in Dallas, TX. Currently Engineering Manager at **R1 RCM**, building a private enterprise AI platform and a BI analytics product on Azure. Previously Principal Software Engineer / Lead at **Microsoft** (2015–2023) on Fortune 500 and US federal engagements — Kubernetes, IoT, software-defined vehicles, and Azure SDK for Rust. Started building on Azure before general availability.
+Software engineering leader in Dallas, TX. Currently Engineering Manager at **R1 RCM**, owning two products: a private ChatGPT-like platform with enterprise security guardrails (Azure OpenAI, RAG, document intelligence) and a BI analytics application serving internal and executive stakeholders. Previously Principal Software Engineer / Lead at **Microsoft** across nearly two decades (2002–2013, 2015–2023) on Fortune 500 and US federal engagements — Kubernetes, IoT, software-defined vehicles, and Azure SDK for Rust. Started building on Azure before general availability.
 
 ## What I'm into right now
 
